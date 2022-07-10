@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9605b3c40a2ec524bb955e3351a443d8, type: 3}
+  m_Name: "\u64CD\u63A7"
+  m_EditorClassIdentifier: 
+  skillsName: "\u64CD\u63A7"
+  skill_ID: 0
+  skill_Conjure: 0
+  skillsImage: {fileID: 21300000, guid: 56978739652eef944b0bcbe19c3b9899, type: 3}
+  skillsWeight: 15
+  skillsHeld: 2
+  skillsHeldInWarehouse: 1
+  skillsHeldInBag: 1
+  skillsCooling_time: 15
+  At_OnceRelease: 1
+  skillsInfo: 
